@@ -1,4 +1,8 @@
 {
- "User" : "Steven",
- "Password" : "123456789"
+  "Usuarios" : [
+   {
+      "User" : "Steven",
+      "Password" : "123456789"
+   }
+  ]
 }
